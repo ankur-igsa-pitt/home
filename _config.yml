@@ -10,51 +10,66 @@ It will appear in your document head meta (for Google search results) and in you
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+- name: Vijayendra Kumar
+  pic: 20
+  position: President
+  # social:
+  #   - title: twitter
+  #     url: #
+  #   - title: facebook
+  #     url: #
+  #   - title: stack-overflow
+  #     url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+- name: Arun Balajiee
+  pic: 0
+  position: Vice President
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+- name: Shreya Singh
+  pic: 20
+  position: General Secretary
+
+- name: Ashish Jha
+  pic: 20
+  position: Business Manager
+
+- name: Shanim Manzoor
+  pic: 20
+  position: Event Manager
+
+- name: Aishwarya Vasudevan
+  pic: 20
+  position: Event Manager
+
+- name: Kavita Sah
+  pic: 20
+  position: Public Relations
+
+- name: Karthik Jadala
+  pic: 20
+  position: Public Relations
+
+- name: Sanzil Madye
+  pic: 20
+  position: Cultural Manager
+
+- name: Vipul Agrawal
+  pic: 20
+  position: Cultural Manager
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+# social:
+#   - title: twitter
+#     url: http://twitter.com/jekyllrb
+#   - title: facebook
+#     url:
+#   - title: stack-overflow
+#     url: http://stackoverflow.com/questions/tagged/jekyll
+#   - title: bitbucket 
+#     url: http://bitbucket.org/jekyll
+#   - title: github
+#     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
