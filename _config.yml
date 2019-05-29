@@ -10,7 +10,7 @@ It will appear in your document head meta (for Google search results) and in you
 
 # Team names, titles and social links
 people:
-- name: Vijayendra Kumar
+- name: Kumar Vijayendra
   pic: 1
   position: President
   # social:
@@ -54,7 +54,7 @@ people:
   position: Cultural Manager
 
 - name: Vipul Agrawal
-  pic: 20
+  pic: 2
   position: Cultural Manager
 
 
